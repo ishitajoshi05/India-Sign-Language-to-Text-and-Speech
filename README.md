@@ -49,6 +49,12 @@ The project uses a **Convolutional Neural Network (CNN)** built with **PyTorch**
 - **Gradio**
 - **NumPy / Matplotlib**
 
+  
+## 📈 Evaluation Metrics
 
-## 📂 Project Structure (Simplified)
-
+The model performance is evaluated using:
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
